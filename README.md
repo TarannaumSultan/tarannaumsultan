@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Java , Python, HTML , CSS , JavaScript**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Tx570m2OIARFtpxgjV0fNDjiwYijkPWx/edit](https://docs.google.com/document/d/1Tx570m2OIARFtpxgjV0fNDjiwYijkPWx/edit)
+<!--- 📄 Know about my experiences [https://docs.google.com/document/d/1Tx570m2OIARFtpxgjV0fNDjiwYijkPWx/edit](https://docs.google.com/document/d/1Tx570m2OIARFtpxgjV0fNDjiwYijkPWx/edit)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
